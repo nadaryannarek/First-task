@@ -9,5 +9,6 @@ composer install
 
 ## Usage
 
+```phpt
 # calculate fees
 php index.php input.csv
